@@ -1,59 +1,25 @@
-👋 Olá, sou Murilo Mota!
-Desenvolvedor Full-Stack | JavaScript | Python | Game Dev Entusiasta
+👋 Murilo Mota
+Dev Full-Stack | Criativo | Multidisciplinar
 
-Sou um desenvolvedor apaixonado por tecnologia com foco em criar soluções web inovadoras e experiências interativas. Meu GitHub reflete minha jornada de aprendizado contínuo e exploração de diferentes áreas da programação.
+Desenvolvedor versátil que mistura web, games e dados em projetos práticos. Do front ao back, com pitadas de Python e JavaScript.
 
-🚀 Áreas de Atuação
-🌐 Desenvolvimento Web
-E-commerce: elitetech-ecommerce
+🛠 Tech Stack
+Web: JavaScript, HTML/CSS, Sistemas completos
+Games: Jogos web interativos
+Dados: Python para análise
+Extra: Animações, e-commerce, educação tech
 
-Sistemas Empresariais: sistema-escola, EasyWork
+🎯 Destaques
+sistema-escola - Sistema educacional
 
-Landing Pages: site_padaria, site-eletrica, Site_Pets
+elitetech-ecommerce - Loja virtual
 
-Aplicações Web: site_Lista_Tarefas, site-vanilla
+zombotron / Turbo-Racing-Legend - Games web
 
-🎮 Desenvolvimento de Jogos
-Jogos Web: zombotron, Turbo-Racing-Legend, QUEIMADOS
+Analise-de-preco-de-gasolina - Dados com Python
 
-Jogos em JavaScript: minefast, SkyRoll (colaboração)
+nexushealth - Sistema de saúde
 
-Game Jam Projects: papers-please (inspirado)
+📈 GitHub em números:
+https://github-readme-stats.vercel.app/api?username=omurilomota&show_icons=true&theme=dark&hide_title=true&count_private=true
 
-📊 Análise de Dados & Python
-Analise-de-preco-de-gasolina-Brasil_python - Projeto de análise de dados
-
-Desafio_itau - Desafio técnico/processo seletivo
-
-⚡ Tecnologias & Ferramentas
-Baseado nos projetos, trabalho com:
-
-Frontend: HTML, CSS, JavaScript (vanilla e frameworks)
-
-Backend: Python, sistemas web
-
-Animações & Interatividade: CSS/JS animations (animacao-carro, anima-o_tomar_-gua)
-
-Conteúdo Educacional: aula_real, aula_online_DJWII
-
-🎯 Meu Foco Atual
-Desenvolvimento de sistemas completos (nexushealth, HireorDie)
-
-Melhorar habilidades em arquitetura de software
-
-Explorar a interseção entre web development e game design
-
-📈 Estatísticas & Contribuições
-https://github-readme-stats.vercel.app/api?username=omurilomota&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=omurilomota&layout=compact&theme=radical
-
-✨ Destaques:
-
-Projetos Práticos: Desde sites institucionais até sistemas complexos
-
-Criatividade Técnica: Combina desenvolvimento web com elementos de game design
-
-Aprendizado Contínuo: Projetos educacionais e desafios técnicos
-
-Colaboração: Trabalho em projetos como SkyRoll (Luc1000)
