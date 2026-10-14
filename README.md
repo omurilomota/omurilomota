@@ -54,8 +54,8 @@ centralizado em um único arquivo de configuração e verificação automática 
 
 ## Tecnologias
 
-**Backend** — Java 21 · Spring Boot · Spring Security (JWT) · JPA / Hibernate ·
-Bean Validation · OpenAPI · Maven · JUnit
+**Backend** — Java 21 · Spring Boot · Spring Security · JPA / Hibernate · PostgreSQL ·
+Flyway · Bean Validation · OpenAPI · Maven · JUnit · Testcontainers
 
 **Web** — TypeScript · React · Vite · Tailwind CSS · Zustand · three.js · Vitest · Playwright
 
