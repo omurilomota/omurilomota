@@ -21,7 +21,10 @@ e transição de status validada.
 - 1.384 linhas de Java e 22 endpoints distribuídos em 4 controllers
 - Arquitetura Controller → Service → Repository, com DTOs isolando o contrato da API das
   entidades JPA
-- Autenticação e autorização com Spring Security e JWT; senhas com hash BCrypt
+- Senhas armazenadas com hash BCrypt
+- Spring Security configurado, mas a autenticação por JWT **ainda não está implementada**:
+  o filtro é uma classe vazia e os endpoints estão liberados. Consta como próximo passo no
+  [ROADMAP](https://github.com/omurilomota/Sorveteria-API/blob/master/ROADMAP.md)
 - Tratamento global de exceções, com respostas de erro padronizadas e documentação OpenAPI
 
 ### [Olho Eletrônico](https://github.com/omurilomota/Olho-Eletronico) · React 19 · TypeScript · three.js
