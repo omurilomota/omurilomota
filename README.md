@@ -68,4 +68,4 @@ Bean Validation · OpenAPI · Maven · JUnit
 ## Contato
 
 - **E-mail:** murilohenriquemota935@gmail.com
-- **LinkedIn:** _(a adicionar)_
+- **LinkedIn:** https://www.linkedin.com/in/murilo-henrique-622354358/
